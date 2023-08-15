@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Axion';
+    src: url('../fonts/axion-font.woff2') format('woff2'),
+         url('../fonts/axion-font.woff') format('woff');
+    /* Add additional font formats if necessary */
+    font-weight: normal;
+    font-style: normal;
+  }
